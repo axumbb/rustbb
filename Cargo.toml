@@ -1,0 +1,12 @@
+[package]
+name = "rustbb"
+version = "0.1.0"
+edition = "2021"
+authors = ["rustbb.net <team@rustbb.net>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/axumbb/rustbb"
+homepage = "https://rustbb.net"
+description = "使用axum开发的论坛"
+
+[dependencies]
